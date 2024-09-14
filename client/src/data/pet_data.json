@@ -1,0 +1,47 @@
+{
+    "img": "https://images.unsplash.com/photo-1655210913315-e8147faf7600?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9nJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+	"name": "Dog Food",
+    "price": "2000",
+    "desc": "High-quality dog food with essential nutrients",
+    "qty": "50"
+}
+
+{
+	"img": "	https://images.unsplash.com/photo-1600369671854-f3293a0da0c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0JTIwYmVkfGVufDB8fDB8fHww",
+	"name": "Cat Bed",
+    "price": "20000",
+    "desc": "Round, washable, soft cat bed with customized",
+    "qty": "20"
+}
+
+{
+	"img": "https://images.unsplash.com/photo-1655210913151-87ce369ff7d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhdCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+	"name": "Cat Food",
+    "price": "1500",
+    "desc": "Nutritious food for cats with vitamins and minerals",
+    "qty": "50"
+}
+
+{
+	"img": "https://images.unsplash.com/photo-1680925652180-cee37b90b371?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhdCUyMGJhdGh8ZW58MHx8MHx8fDA%3D",
+	"name": "Cat Scratch Post",
+    "price": "50000",
+    "desc": "Durable, scratch-resistant, simple and smooth design, eco-friendly material scratch post",
+    "qty": "12"
+}
+
+{
+	"img": "https://images.unsplash.com/photo-1596822316110-288c7b8f24f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0JTIwYWNjZXNzb3JpZXN8ZW58MHx8MHx8fDA%3D",
+	"name": "Cat Collar",
+    "price": "500",
+    "desc": "Cute paw design cat collar with bell",
+    "qty": "35"
+}
+
+{
+	"img": "https://images.unsplash.com/photo-1647002380358-fc70ed2f04e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGRvZyUyMGJhdGh8ZW58MHx8MHx8fDA%3D",
+	"name": "Dog Shampoo",
+    "price": "3500",
+    "desc": "Keep your furry friend clean and smelling fresh",
+    "qty": "54"
+}
