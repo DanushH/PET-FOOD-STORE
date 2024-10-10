@@ -22,20 +22,44 @@
 
 ## Features
 
-- Home Page
+- Home/ Products Page - Dark Theme
 
 <div align="center">
-  <a href="https://github.com/DanushH/Django_Iris_Classification_Web_App.git">
-    <img src="irisproject/irisapp/static/media/home.PNG" alt="Home Page" width="1000" height="600">
+  <a href="https://github.com/DanushH/PET-FOOD-STORE">
+    <img src="preview/pet1.PNG" alt="Home Page" width="800" height="400">
   </a>
 </div>
 
+- Home/ Products Page - Light Theme
 
+<div align="center">
+  <a href="https://github.com/DanushH/PET-FOOD-STORE">
+    <img src="preview/pet2.PNG" alt="Home Page" width="800" height="400">
+  </a>
+</div>
 
+- Login Page
+
+<div align="center">
+  <a href="https://github.com/DanushH/PET-FOOD-STORE">
+    <img src="preview/login.PNG" alt="Login Page" width="800" height="400">
+  </a>
+</div>
+
+- Cart Page
+
+<div align="center">
+  <a href="https://github.com/DanushH/PET-FOOD-STORE">
+    <img src="preview/cart.PNG" alt="Cart Page" width="800" height="400">
+  </a>
+</div>
+
+<br/>
 
 ## Project Status
 
 - In progress
+- Open for collaboration/ feedback
 
 <br>
 
@@ -53,7 +77,7 @@
 [React-badge]: https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&logoColor=0096FF
 [React-url]: https://react.dev/
 [Node-Badge]: https://img.shields.io/badge/Node-black?style=for-the-badge&logo=Node.js&logoColor=white
-[Node-url]: https://react.dev/
+[Node-url]: https://nodejs.org/en
 [linkedin-shield]: https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%230277BD
 [linkedin-url]: https://linkedin.com/in/danushika-herath
 
