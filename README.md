@@ -56,13 +56,6 @@
 
 <br/>
 
-## Project Status
-
-- In progress
-- Open for collaboration/ feedback
-
-<br>
-
 ## Contact
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
